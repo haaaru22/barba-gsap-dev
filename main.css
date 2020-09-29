@@ -2,12 +2,12 @@ html,
 body {
     margin: 0;
     padding: 0;
-    /* background-image: url(images/img01.jpg);
+    background-image: url(images/img01.jpg);
     background-color: rgba(24, 21, 21, 0.144);
     background-blend-mode: soft-light;
     background-size: cover;
     background-attachment: fixed;
-    background-position: center center; */
+    background-position: center center;
     background-color: #121212;
     color: aliceblue;
 }
